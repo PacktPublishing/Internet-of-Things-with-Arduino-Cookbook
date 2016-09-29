@@ -1,0 +1,20 @@
+body {
+  font-size: 26px;
+}
+
+.row {
+  margin-top: 25px;
+}
+
+#slider {
+	margin-top: 7px;
+    vertical-align:middle;
+}
+
+h1 {
+  text-align: center;
+}
+
+.col-centered {
+  text-align: center;
+}

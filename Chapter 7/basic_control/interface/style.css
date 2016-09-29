@@ -1,0 +1,16 @@
+body {
+  font-size: 20px;
+}
+
+.row {
+  margin-top: 25px;
+}
+
+#slider {
+	margin-top: 7px;
+    vertical-align:middle;
+}
+
+h1 {
+  text-align: center;
+}
