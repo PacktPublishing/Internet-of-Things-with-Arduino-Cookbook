@@ -1,4 +1,4 @@
-# Internet-of-Things-with-Arduino-Cookbook
+# Internet of Things with Arduino Cookbook
 This is the code repository for [Internet of Things with Arduino Cookbook](https://www.packtpub.com/hardware-and-creative/internet-things-arduino-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781785286582) , published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
 
